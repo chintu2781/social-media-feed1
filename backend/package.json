@@ -1,1 +1,13 @@
-
+{
+  "name": "social-media-feed-backend1",
+  "version": "1.0.0",
+  "description": "Backend for a real-time social media feed using WebSocket",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  }
+}
