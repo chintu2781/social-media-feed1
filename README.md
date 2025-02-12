@@ -6,5 +6,5 @@ A real-time social media feed application built with React (frontend) and Node.j
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/social-media-feed.git
+   git clone https://github.com/<chintu2781>/social-media-feed.git
    cd social-media-feed
